@@ -10,7 +10,7 @@
 {
 	"name": "Batman vs Superman",
 	"url": {
-		"small": "http://api.androidhive.info/images/glide/small/bvs.jpg",
+		"small": "https://i.imgur.com/sWAiXxAs.jpg,
 		"medium": "http://api.androidhive.info/images/glide/medium/bvs.jpg",
 		"large": "http://api.androidhive.info/images/glide/large/bvs.jpg"
 	},
@@ -19,7 +19,7 @@
 {
 	"name": "Captain America: Civil War",
 	"url": {
-		"small": "http://api.androidhive.info/images/glide/small/cacw.jpg",
+		"small": "https://i.imgur.com/sWAiXxAs.jpg",
 		"medium": "http://api.androidhive.info/images/glide/medium/cacw.jpg",
 		"large": "http://api.androidhive.info/images/glide/large/cacw.jpg"
 	},
